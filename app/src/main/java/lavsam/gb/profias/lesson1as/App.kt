@@ -2,7 +2,7 @@ package lavsam.gb.profias.lesson1as
 
 import android.app.Application
 import lavsam.gb.profias.lesson1as.data.RepositoryImpl
-import lavsam.gb.profias.lesson1as.presenters.BasePresenter
+import lavsam.gb.profias.lesson1as.domain.repositories.presenters.BasePresenter
 import lavsam.gb.profias.lesson1as.presenters.MainActivityPresenter
 
 class App : Application() {

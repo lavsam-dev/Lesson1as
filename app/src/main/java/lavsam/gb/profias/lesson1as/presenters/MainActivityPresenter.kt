@@ -1,8 +1,7 @@
 package lavsam.gb.profias.lesson1as.presenters
 
-import android.app.Activity
-import lavsam.gb.profias.lesson1as.data.BaseRepository
 import lavsam.gb.profias.lesson1as.data.RepositoryImpl
+import lavsam.gb.profias.lesson1as.domain.repositories.presenters.BasePresenter
 import lavsam.gb.profias.lesson1as.ui.BaseActivity
 
 class MainActivityPresenter(private val repositoryImpl: RepositoryImpl) : BasePresenter {

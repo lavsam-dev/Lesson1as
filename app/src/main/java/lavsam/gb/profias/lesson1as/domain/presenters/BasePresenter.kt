@@ -1,4 +1,4 @@
-package lavsam.gb.profias.lesson1as.presenters
+package lavsam.gb.profias.lesson1as.domain.repositories.presenters
 
 import android.app.Activity
 import lavsam.gb.profias.lesson1as.ui.BaseActivity
