@@ -27,4 +27,6 @@ class MainActivity : AppCompatActivity(), BaseActivity {
         presenter.detach()
         super.onDestroy()
     }
+
+
 }
